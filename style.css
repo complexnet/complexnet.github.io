@@ -129,12 +129,12 @@ table {
 	font-size: 30px;
 	font-family: 'Courier';
 	text-align: center;
-	color: #003380;
+	color: black;
 }
 
 #article h3 {
     font-family: 'Courier';
-    color: #003380;
+    color: black;
 }
 
 #article h4 {
@@ -155,7 +155,7 @@ table {
 
 #leftarticle h3 {
     font-family: 'Courier';
-    color: #003380;
+    color: black;
 }
 
 #recentarticle{
